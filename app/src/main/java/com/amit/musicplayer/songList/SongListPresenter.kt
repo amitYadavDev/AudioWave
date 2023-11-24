@@ -25,6 +25,9 @@ class SongListPresenter constructor(view: SongListView) : com.amit.musicplayer.B
     private lateinit var player: PlayerService
 
     private lateinit var adapter: SongListAdapter
+
+/*    SparseArray is an Android-specific class that maps integers to objects.
+    In this case, it's mapping integer keys to Song objects*/
     private val filteredSongList: SparseArray<Song> = SparseArray()
 
     fun setPlayerManager(player: PlayerService) {
