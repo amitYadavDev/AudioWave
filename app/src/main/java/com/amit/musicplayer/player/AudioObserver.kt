@@ -23,6 +23,13 @@ class AudioObserver constructor(private val handler: Handler) : ContentObserver(
             val b = Bundle()
             b.putString("songID", it)
 
+
+
+/*
+            The line val msg = Message() creates a new instance of the Message class in Kotlin.
+            This is commonly used in Android development when working with a Handler.
+*/
+
             val msg = Message()
             msg.data = b
 
