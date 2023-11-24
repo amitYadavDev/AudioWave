@@ -34,7 +34,7 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import kotlinx.coroutines.launch
 import java.beans.PropertyChangeEvent
 
-class SongListActivity : com.amit.musicplayer.BaseSongActivity<SongListPresenter>(), SongListView {
+class SongListActivity : BaseSongActivity<SongListPresenter>(), SongListView {
     private lateinit var viewBinding: ActivitySongListBinding
 
     private var loadingDialog: AlertDialog? = null

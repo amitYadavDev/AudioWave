@@ -13,6 +13,8 @@ import com.amit.musicplayer.player.PlayerService
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import java.beans.PropertyChangeListener
 
+
+//The purpose of adding a PropertyChangeListener is to observe and react to changes in properties of the playerManager.
 abstract class BaseSongActivity<P : com.amit.musicplayer.BasePresenter<*>> : com.amit.musicplayer.BaseActivity<P>(), PropertyChangeListener {
     private val REQUEST_WRITE_EXTERNAL_STORAGE: Int = 10
     private val REQUEST_READ_MEDIA_AUDIO: Int = 11

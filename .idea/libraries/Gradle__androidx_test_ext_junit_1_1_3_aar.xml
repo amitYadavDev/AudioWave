@@ -1,14 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.test.ext:junit:1.1.3@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/transforms-3/b6e87b92aa13fa6b39b228aa5b4921c6/transformed/jetified-junit-1.1.3/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/transforms-3/b6e87b92aa13fa6b39b228aa5b4921c6/transformed/jetified-junit-1.1.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/b6e87b92aa13fa6b39b228aa5b4921c6/transformed/jetified-junit-1.1.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/b6e87b92aa13fa6b39b228aa5b4921c6/transformed/jetified-junit-1.1.3/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.3/f138cf897cc1e024dd714073df04f2425d845104/junit-1.1.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.3/f138cf897cc1e024dd714073df04f2425d845104/junit-1.1.3-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.3/cdf059d469527681d62d3330131eb875b77911d5/junit-1.1.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.3/cdf059d469527681d62d3330131eb875b77911d5/junit-1.1.3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

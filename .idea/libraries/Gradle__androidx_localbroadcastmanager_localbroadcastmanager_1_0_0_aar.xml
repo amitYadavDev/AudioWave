@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/transforms-3/845a0587388959125ca04c3aeafe0f8e/transformed/localbroadcastmanager-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/transforms-3/845a0587388959125ca04c3aeafe0f8e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/845a0587388959125ca04c3aeafe0f8e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/845a0587388959125ca04c3aeafe0f8e/transformed/localbroadcastmanager-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/modules-2/files-2.1/androidx.localbroadcastmanager/localbroadcastmanager/1.0.0/3930e99159fd6b7f1d2e7d5fe9af0924ca1faf9/localbroadcastmanager-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.localbroadcastmanager/localbroadcastmanager/1.0.0/3930e99159fd6b7f1d2e7d5fe9af0924ca1faf9/localbroadcastmanager-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,14 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.test:monitor:1.4.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/transforms-3/cf5e7c986db8c215652cbda8feb478b2/transformed/monitor-1.4.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/transforms-3/cf5e7c986db8c215652cbda8feb478b2/transformed/monitor-1.4.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/cf5e7c986db8c215652cbda8feb478b2/transformed/monitor-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/cf5e7c986db8c215652cbda8feb478b2/transformed/monitor-1.4.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/modules-2/files-2.1/androidx.test/monitor/1.4.0/2770e38fa6d39242c2fa2e9d2ca3275b1d9debd8/monitor-1.4.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.4.0/2770e38fa6d39242c2fa2e9d2ca3275b1d9debd8/monitor-1.4.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/modules-2/files-2.1/androidx.test/monitor/1.4.0/5d892d39aae695079e3ecc7a841336ff3aeaf40/monitor-1.4.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.test/monitor/1.4.0/5d892d39aae695079e3ecc7a841336ff3aeaf40/monitor-1.4.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

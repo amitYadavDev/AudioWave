@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-runtime:2.5.1@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/transforms-3/82df514e3746b82a9e09b1dd810a3303/transformed/lifecycle-runtime-2.5.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/transforms-3/82df514e3746b82a9e09b1dd810a3303/transformed/lifecycle-runtime-2.5.1/res" />
-      <root url="file://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/transforms-3/82df514e3746b82a9e09b1dd810a3303/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/82df514e3746b82a9e09b1dd810a3303/transformed/lifecycle-runtime-2.5.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/82df514e3746b82a9e09b1dd810a3303/transformed/lifecycle-runtime-2.5.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/transforms-3/82df514e3746b82a9e09b1dd810a3303/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../Maths12EngMed/.gradle/7.0.2/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime/2.5.1/d255b447102736e536a28b97671c6a736c801b7/lifecycle-runtime-2.5.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Open_Source_Contribution/ivy-wallet/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime/2.5.1/d255b447102736e536a28b97671c6a736c801b7/lifecycle-runtime-2.5.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

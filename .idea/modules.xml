@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MusicPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/MusicPlayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MusicPlayer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MusicPlayer.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MusicPlayer.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MusicPlayer.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MusicPlayer.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MusicPlayer.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MusicPlayer.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MusicPlayer.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AudioWave.iml" filepath="$PROJECT_DIR$/.idea/modules/AudioWave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AudioWave.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AudioWave.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AudioWave.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AudioWave.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AudioWave.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AudioWave.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AudioWave.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AudioWave.app.unitTest.iml" />
     </modules>
   </component>
 </project>
