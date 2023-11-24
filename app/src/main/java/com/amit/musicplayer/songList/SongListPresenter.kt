@@ -12,6 +12,13 @@ import com.amit.musicplayer.model.Song
 import com.amit.musicplayer.player.PlayerService
 import kotlinx.coroutines.*
 
+
+/*constructor(view: SongListView): This is the primary constructor for the class.
+It takes a single parameter named view of type SongListView.*/
+
+/*SongListPresenter is a concrete class that extends BasePresenter, specializing it
+with the type SongListView. It takes an instance of SongListView as a parameter in its
+constructor and passes it to the constructor of the superclass. This is a common pattern in MVP*/
 class SongListPresenter constructor(view: SongListView) : com.amit.musicplayer.BasePresenter<SongListView>(view) {
     private val scope: CoroutineScope = CoroutineScope(Dispatchers.IO + Job())
 
