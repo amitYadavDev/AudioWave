@@ -126,6 +126,11 @@ class PlayerService : Service(), PropertyChangeListener {
         registerReceiver()
         addPlayerObserver(this)
 
+
+//        The line binder = LocalBinder() suggests that you are creating an instance of a class named
+//        LocalBinder and assigning it to a variable named binder. This pattern is often used in Android
+//        when implementing a bound service.
+
         binder = LocalBinder()
     }
 
