@@ -8,13 +8,18 @@ import android.os.Message
 
 /*ContentObserver class is part of the Android framework and is used to monitor
 changes to a content provider, such as changes to data in a database.*/
-class AudioObserver(private val handler: Handler) : ContentObserver(handler) {
+
+
+//A Handler is used to schedule messages and runnables on a thread.
+class AudioObserver constructor(private val handler: Handler) : ContentObserver(handler) {
     override fun onChange(selfChange: Boolean, uri: Uri?) {
         super.onChange(selfChange, uri)
 
         if (selfChange) return
 
         uri?.lastPathSegment?.let {
+
+//            Creates a new Bundle to hold data.
             val b = Bundle()
             b.putString("songID", it)
 
